@@ -14,3 +14,4 @@ tblogretmen                        ogrtID,ogrtadsoyad,ogrtbrans
 
 
 Kullanıcı girişi için kullanılan şifre kolonunun şifreleme algoritması SHA256 algoritmasıdır. 
+Sistenin doğru kullanılması için ilk açılması gereken sayfa SİTEanasayfa.aspx dir.
